@@ -1,0 +1,17 @@
+center {
+display: block;
+text-align: -webkit-center;
+}
+.logo {
+width: 820px;
+height: 341px;
+margin-top: 80px;
+background: url(images/Zanoboemaillogo.png) no-repeat;
+}
+.contactlink {
+padding-top: 40px;
+padding-right: 55px;
+}
+.contactlink a {
+color: #273a97
+}
